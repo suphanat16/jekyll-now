@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Suphanat
 permalink: /about/
 ---
-
-Some information about you!
+นางสาว ศุภนาถ แสนอ้วน วท.บ.57.11.5
+รหัสนักศึกษา 57122420514 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+นักศึกษาชั่นปีที่ 4 สาขา วิทยาการคอมพิวเตอร์ คณะ วิทยาการคอมพิวเตอร์
+มหาวิทยาลัยราชภัฏอุบลราชธานี 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Suphanat.scs57@ubru.ac.th
