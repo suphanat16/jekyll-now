@@ -8,6 +8,6 @@ Bs.C. Computer Science, Ubon Ratchathani Rajabhat University
 - โครงงาน ระบบการจัดการบริษัททัวร์ 
 
 # Education
-- มัธยมศึกษาตอนตต้น จาก โรงเรียนปทุมพิทยาคม
+- มัธยมศึกษาตอนต้น จาก โรงเรียนปทุมพิทยาคม
 - มัธยมศึกษาตอนปลาย จาก สการศึกษานอกระบบและการศึกษาตามอัธยาศัย
 - Bs.C. Computer Science, Ubon Ratchathani Rajabhat University
